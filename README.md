@@ -61,7 +61,7 @@ I'm Md Shabaz Ansari an aspiring Full Stack Web Developer. I Spend most of time 
 <br/>
 <br/>
 
-<a href="https://github.com/Meshabaz's/github-readme-activity-graph"><img alt="Meshabaz's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Meshabaz&custom_title=This%20is%20a%20title&hide_border=true" /></a>
+<a href="https://github.com/Meshabaz's/github-readme-activity-graph"><img alt="Meshabaz's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Meshabaz&theme=react-dark" /></a>
 
 <br/>
 <br/>
@@ -69,15 +69,16 @@ I'm Md Shabaz Ansari an aspiring Full Stack Web Developer. I Spend most of time 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/md-shabaz-ansari-0399341bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/MeShabaz__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/holyfalcon_/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://telegram.com/"><img
+width="50rem" src="https://ouch-cdn2.icons8.com/kAxmpw_ftccqfltpjfKS0oMWYSisFCFnFVmdiLWv2h8/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTg1/L2I5MDg2ZjUyLTRi/NWMtNDYyZC1iMTli/LTk5Y2Q0NGZiYjI4/Yi5wbmc.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://github.com/Meshabaz/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Meshabaz">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Meshabaz?tab=followers"><img src="https://img.shields.io/github/followers/Meshabaz?label=Followers&style=social" alt="GitHub Badge"></a>
