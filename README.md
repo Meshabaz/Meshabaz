@@ -61,7 +61,7 @@ I'm Md Shabaz Ansari an aspiring Full Stack Web Developer. I Spend most of time 
 <br/>
 <br/>
 
-<a href="https://github.com/Meshabaz's/github-readme-activity-graph"><img alt="Meshabaz's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Meshabaz&custom_title=This%20is%20a%20title&hide_border=true" /></a>
+<a href="https://github.com/Meshabaz's/github-readme-activity-graph"><img alt="Meshabaz's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Meshabaz&theme=react-dark" /></a>
 
 <br/>
 <br/>
