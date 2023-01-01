@@ -6,7 +6,7 @@ I'm Md Shabaz Ansari an aspiring Full Stack Web Developer. I Spend most of time 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[Infosys](https://www.infosys.com/)**
+- 🔭 I’m currently working at **[Infosys Ltd.](https://www.infosys.com/)**
 
 - 🌱 I’m currently learning **Frontend development, Data Structures and Algorithms.**
 
